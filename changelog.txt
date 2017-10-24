@@ -1,0 +1,168 @@
+Eleganto PRO Changelog
+---------------------
+
+1.5.1
+----------------------
+* Added support for WooCommerce 3.0
+* Added support and new theme option - Gallery Zoom
+* Added support and new theme option - Gallery Lightbox
+* Added support and new theme option - Gallery Slider 
+
+1.5.0
+----------------------
+* Added ability to change visible items inside Brand Logos section
+* Added ability to change visible items inside Carousel section
+* Added new homepage blog section post layout
+* Added ability to change items per row in homepage blog section
+* Added new section - Custom Section #3
+
+1.4.7
+----------------------
+* Tweaked sections texts
+
+1.4.6
+----------------------
+* Allowed safe HTML in My Team section
+* Added new WooCommerce section options - Product type select and order
+
+1.4.5
+----------------------
+* Fixed background image section images/video overflow
+* Added theme update notifier
+* Updated TGMPA plugin
+* Added new social icons
+
+1.4.4
+----------------------
+* Fixed blank footer menu
+* Updated kirki helper
+* Fixed empty email on contact page
+* Added default email subject into the homepage email link
+
+1.4.3
+----------------------
+* Added theme option to disable parallax effect
+* Added smooth scroll option
+* Added carousel and brand logos carousel interval, loop and autostart options
+* Added theme option to disable parallax effect on mobile/touch devices
+* Added testimonials carousel autostart and delay options
+* Fixed mobile menu padding
+* Fixed Safari browser portfolio images issue
+* Fixed empty top menu issue
+
+1.4.2
+----------------------
+* Fixed contact address html issue
+* Added contact form layout option
+* Code improvements based on WP requirements
+
+1.4.1
+----------------------
+* Added breadcrumb align option
+* Improved parallax function
+* Added option to disable footer social icons
+* Added option to disable footer widget area on homepage
+* Fixed intro background color option
+
+1.4.0
+----------------------
+* Fixed video background visibility if image defined
+* Updated video z-index
+* Added WooCommerce title, price color options
+* Improved main menu hover colors
+* Carousel images are now in original width
+* Added typography to top menu, main menu
+* Added color options for top menu, main menu
+* Fixed custom templates breadcrumb functions
+* Fixed top menu - 3rd level menu
+* Updated Font Awesome to v4.7.0
+* Added to blog homepage section link to blog archive
+* Fixed Portfolio first images load issue
+* Added one click demo import
+
+1.3.1
+----------------------
+* Fixed footer navigation on mobile devices
+* Added space below portfolio filter buttons
+* Added smooth parallax scrolling
+* Fixed carousels on mobile devices
+* Updated isotope script
+* Updated video background script
+* Fixed homepage background image section - Check your section settings after update on this version!
+* Fixed site background option
+
+1.3.0
+----------------------
+* Added smooth main menu animation
+* Added background image section text positioning option
+* Added newsletter section style with image
+* Fixed https google map error
+* Cleared code
+* Updated functions
+* Fixed missing translations
+* Added Kirki plugin notification
+
+1.2.3
+----------------------
+* Fixed top menu z-index
+* Fixed contact page map api
+* Fixed sidebar language issue
+* Updated theme functions
+
+1.2.2
+----------------------
+* Fixed some admin option descriptions
+* Fixed google map. Google API key is now required for google map
+* Fixed missing footer social links
+
+1.2.1
+----------------------
+* Fixed slider background images
+* Fixed carousel custom images
+
+1.2.0
+----------------------
+* Added new section title style
+* Added Intro spacing option
+* Added Crelly Slider support
+* Added Intro youtube video support
+* Added new section - Background Image
+* Fixed Animation on static front page
+* Fixed logo section images
+* Fixed 404 page header
+* Fixed header width option
+
+1.1.1
+----------------------
+* Fixed Kirki 2.3.1 customizer issue
+* Re-styled the code/ad options
+
+1.1.1
+----------------------
+* Fixed scrolling
+
+1.1.0
+----------------------
+* Added slider animation settings
+* Added slider caption styles
+* Added slider height option
+* Added slider interval option
+* Added option to select sections layout (skew/straight)
+* Added new section - Brand Logos carousel
+* Added option to select header layout (boxed/wide)
+* Added homepage section animations
+* Improved parallax backgrounds effect
+* Small CSS improvements
+
+1.0.1
+----------------------
+* Added second custom section
+* Added default section background colors
+* Removed eleganto_get_image_id function
+* Added front-page template support
+* Added default sections
+* Added default menu names
+
+1.0.0
+----------------------
+* Initial release
